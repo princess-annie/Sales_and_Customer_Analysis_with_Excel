@@ -24,9 +24,9 @@ After Importing the dataset;
 
 ## Data Scope
 The Analysis Covers:
-4 Geographic Regions: North America, Europe, Asia, South America
-4 Product Categories: Electronics, Clothing, Home, Sports
-Time Periods: Full year with seasonal and daily purchase patterns
+- 4 Geographic Regions: North America, Europe, Asia, South America
+- 4 Product Categories: Electronics, Clothing, Home, Sports
+- Time Periods: Full year with seasonal and daily purchase patterns
 
 ## Key Metrics
 * Total Revenue: $110.95M
